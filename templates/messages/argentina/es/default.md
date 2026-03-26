@@ -1,6 +1,6 @@
 ---
 name: Mensaje por defecto
-title: Bienvenida/o a OpenStreetMap en Argentina
+title: ¡Bienvenida/o a OpenStreetMap en Argentina
 ---
 ¡Hola {{mapper.displayName}}! 👋,
 
@@ -13,7 +13,7 @@ Podrás encontrar toda la información sobre el mapeo en nuestra página de la W
 - https://wiki.openstreetmap.org/wiki/ES:Argentina#Primeros_pasos.
 - https://learnosm.org/es/
 
-Si no sumaste aún, te invito al canal de telegram de nuestra comunidad: https://t.me/osm_ar.
+Si no te sumaste aún, te invito al canal de telegram de nuestra comunidad: https://t.me/osm_ar.
 
 Y por supuesto, cualquier consulta y dudas sobre el mapeo estoy a disposición.
 
